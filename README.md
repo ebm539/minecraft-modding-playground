@@ -15,3 +15,4 @@
 - New ores and tools
 - New mobs
 - New blocks e.g. an auto tree remover that removes a tree log by log (descending)
+- Compasses placed in game world gen
