@@ -16,3 +16,4 @@
 - New mobs
 - New blocks e.g. an auto tree remover that removes a tree log by log (descending)
 - Compasses placed in game world gen
+- New food e.g. cheeseburgers (where if you eat too many or try to eat when full, you gain slowness/tiredness)
