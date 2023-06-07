@@ -22,3 +22,4 @@
 ### Entirely unrelated
 
 - Inspired by [/r/baduibattles](https://old.reddit.com/r/baduibattles): entering text in Minecraft, by placing blocks and then interpreting the blocks/lack thereof with an OCR system.
+- Using the Minecraft day count and time as an input for a date/time picker in another program
