@@ -28,3 +28,4 @@
 ### This isn't Minecraft
 
 - Beat Saber, but for text input: type a word/sentence by selecting the characters flying towards you in Beat Saber squares
+- In VR: inputting text by grabbing blocks (think a Minecraft-like 3D voxel environment)
