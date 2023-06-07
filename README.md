@@ -30,3 +30,5 @@
 - Beat Saber, but for text input: type a word/sentence by selecting the characters flying towards you in Beat Saber squares
 - In VR: inputting text by grabbing blocks (think a Minecraft-like 3D voxel environment)
 - Factorio as text input: enter text by assembling the letters, requiring their own production lines
+- Golf: enter numbers by score for the end of each hole (birdies and below remove the number of digits, par and above enters the digits' value)
+- Bowling: enter numbers by score for the end of each turn, a split removes the number with the score value
