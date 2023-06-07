@@ -23,3 +23,8 @@
 
 - Inspired by [/r/baduibattles](https://old.reddit.com/r/baduibattles): entering text in Minecraft, by placing blocks and then interpreting the blocks/lack thereof with an OCR system.
 - Using the Minecraft day count and time as an input for a date/time picker in another program
+
+
+### This isn't Minecraft
+
+- Beat Saber, but for text input: type a word/sentence by selecting the characters flying towards you in Beat Saber squares
